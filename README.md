@@ -1,2 +1,3 @@
 # hello-world
-My First GitHub Exp
+
+This is my first try to understand GitHub
